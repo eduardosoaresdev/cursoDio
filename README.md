@@ -1,6 +1,3 @@
-# Livro de receitas :man_cook: #
+# PROJETOS - DIGITAL INNOVATION ONE #
 
-Olá, bem vindo ao meu livro de receitas :wave:
-
-- Lasanha
-- Estrogonofe
+Olá, aqui estão os projetos desenvolvidos nos cursos da Digital Innovation One.
